@@ -1,0 +1,23 @@
+.paper {
+    margin: 'auto';
+    width: 110%;
+    margin-bottom: 20px;
+    height: 200px;
+  }
+
+  .image {
+    width: 128px;
+    height: 128px;
+  }
+
+  .img {
+    margin: 'auto';
+    display: 'block';
+    width: 128px;
+    height: 128px;
+  }
+
+  .detailButtons {
+    width: 100%;
+    background-color: chartreuse !important;
+  }
